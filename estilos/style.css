@@ -30,7 +30,7 @@ section#telefone{
     
     position:absolute;
     top: 50%;
-    left: 20%;
+    left: 30%;
     transform: translate(-50%, -50%);
     height: 565px;
     width: 275px;
@@ -49,6 +49,7 @@ iframe{
 }
 section#redes-sociais{
     text-align: right;
+    padding-top: 45px;
 }
 section#redes-sociais img{
     width: 50px;
