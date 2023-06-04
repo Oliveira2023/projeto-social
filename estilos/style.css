@@ -11,7 +11,7 @@ html, body{
 
 
 body {
-    
+    height: 100vh;
     background: url(../imagens/fundo-madeira.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -30,7 +30,7 @@ section#telefone{
     
     position:absolute;
     top: 50%;
-    left: 30%;
+    left: 20%;
     transform: translate(-50%, -50%);
     height: 565px;
     width: 275px;
